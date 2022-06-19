@@ -1,2 +1,2 @@
 # app-test
-Test -app using reactjs
+Test -app using react.js
